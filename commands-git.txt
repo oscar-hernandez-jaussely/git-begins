@@ -3,3 +3,4 @@ Clone : git clone <repo> [<dir>]
 
 Push : git push       git push -u origin [branch]      git push -f 
 
+Pull : git pull
